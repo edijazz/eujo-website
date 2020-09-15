@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: about
 title: 'Who are we?'
-featuredImage: '../images/about.jpg'
+featuredImage: 'http://edunijazz.netlify.app/static/0cb8071e28dcef6dafaddce541275a6a/a296c/about.jpg'
 subtitle: ''
 meta:
   description: This is a meta description.

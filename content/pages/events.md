@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: events
 title: 'Upcoming Events'
-featuredImage: '../images/about.jpg'
+featuredImage: 'http://edunijazz.netlify.app/static/dde95bf308ebbfa0cf4b6da7bc728b3a/a296c/events-cover.jpg'
 subtitle: ''
 meta:
   description: This is a meta description.
