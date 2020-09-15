@@ -232,3 +232,44 @@ blockquote {
   align-items: center;
   justify-content: center;
 }
+
+.re-center {
+  text-align: center;
+}
+
+
+/* Tables */
+
+/* Tables */
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+th {
+  border-bottom: 2px solid var(--light-background);
+}
+
+tfoot th {
+  border-top: 2px solid var(--light-background);
+}
+
+td {
+  border-bottom: 2px solid var(--light-background);
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.75rem !important;
+  hyphens: auto;
+  word-break: break-word;
+}
+
+tbody tr:nth-child(even) {
+  background-color: var(--light-background);
+}

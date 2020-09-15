@@ -28,7 +28,7 @@ export class Navigation extends Component {
 
   render() {
     const { active } = this.state,
-      { subNav } = this.props,
+      // { subNav } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
@@ -50,8 +50,8 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
-            <div
+            <NavLink to="/about/">About</NavLink>
+            {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
@@ -82,8 +82,11 @@ export class Navigation extends Component {
                   ))}
                 </div>
               </span>
-            </div>
-            <NavLink to="/default/">Default</NavLink>
+            </div> */}
+            <NavLink to="/events/">Events</NavLink>
+            <NavLink to="/time-machine/">Jazz Club Time Machine</NavLink>
+            <NavLink to="/history/">History</NavLink>
+            <NavLink to="/line-up">The Line Up</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button

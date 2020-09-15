@@ -1,22 +1,14 @@
 ---
 template: ComponentsPage
-slug: components
-title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the components page subtitle.
+slug: time-machine
+title: Jazz Club Time Machine
+featuredImage: ''
+subtitle: We invite you on a journey with the Edinburgh University Jazz Orchestra.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  The wait is over. Jazz Club Time Machine is here. Following a sell-out performance in January, we invite you on a journey with the Edinburgh University Jazz Orchestra as we travel through the decades, performing an eclectic array of the most timeless big band pieces, jazz standards and sing-along bangers! Swing from the 1920s, through the golden years of jazz and into 1950s classics. Get some Saturday night fever as we groove in the 1970s and boogie in the 1980s. As we step into the new millennium, finish the night off with contemporary jazz and popular tunes with a twist.
+  
+  
+  So we invite all students, staff, and friends of the University to join us for one last time this semester for a great night of dancing, singing, and most of all, some incredible jazz!
 section2: |-
   ## You can use videos, images and text.
 
@@ -38,7 +30,7 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
+    image: '../images/about.jpg'
     title: Yellow Rope
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
@@ -47,6 +39,6 @@ gallery:
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Jazz Club Time Machine
+  title: Time Machine
 ---

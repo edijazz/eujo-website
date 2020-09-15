@@ -1,30 +1,20 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Welcome to EUJO
+featuredImage: 'http://edunijazz.netlify.app/static/60065730c2fdcd7d9d3d499cc741745f/a296c/home.jpg'
+subtitle: 'Edinburgh University Jazz Orchestra'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: This is the official website of the Edinburgh University Jazz Orchestra. We are a 17-piece big band consisting of some of the finest jazz musicians studying at the University of Edinburgh. We perform throughout the academic year, at venues such as The Jazz Bar on Chambers Street, The Balmoral, The Pleasance Cabaret Bar. and Potterrow. Each year we have our sell-out flagship event, Jazz Club Time Machine! We take bookings for society, charity and private events – our gigs are always packed full of people, energy, and of course great music!
+  title: EUJO
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+# Welcome to EUJO
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Welcome to the website for the Edinburgh University Jazz Orchestra. Auditions to join the band will open during Welcome Week in September. For more information, and to find out how you can get involved in the coming year, keep an eye on our [Facebook page](https://www.facebook.com/edunijazz/).
 
-# Features
+</br>
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+<div class="re-center">
+  <div class="Button">Book Now</div>
+</div>
