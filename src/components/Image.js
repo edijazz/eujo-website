@@ -47,6 +47,7 @@ class Image extends React.Component {
     } else if (res === 'large') {
       res = '2000x'
     }
+
     return res
   }
 

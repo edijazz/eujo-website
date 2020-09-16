@@ -1,5 +1,5 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #b32a08;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -11,7 +11,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 0.4rem;
+  width: 0.2rem;
 }
 
 ::-webkit-scrollbar-track {
@@ -23,7 +23,7 @@
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: #df41197e;
 }
 
 html {
@@ -272,4 +272,8 @@ td {
 
 tbody tr:nth-child(even) {
   background-color: var(--light-background);
+}
+
+.Content--Image {
+  margin: 0 auto;
 }

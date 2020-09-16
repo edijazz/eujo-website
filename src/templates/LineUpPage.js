@@ -10,7 +10,7 @@ import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
 
 // Export Template for use in CMS preview
-export const ComponentsPageTemplate = ({
+export const LineUpPageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -38,26 +38,32 @@ export const ComponentsPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <h2>Our gallery component</h2>
+        <Content source={section2} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <h2>The Committee</h2>
         <Gallery images={gallery} />
       </div>
     </section>
   </main>
 )
 
-const ComponentsPage = ({ data: { page } }) => (
+const LineUpPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ComponentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <LineUpPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default ComponentsPage
+export default LineUpPage
 
 export const pageQuery = graphql`
-  query ComponentsPage($id: String!) {
+  query LineUpPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery

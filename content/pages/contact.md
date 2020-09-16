@@ -1,27 +1,24 @@
 ---
-template: ContactPage
+template: DefaultPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+title: Contact Us
+featuredImage: 'https://edunijazz.netlify.app/static/f8d67ead633435d900d52c9cd3200ed3/b7ec6/contact-1.jpg'
+subtitle: ''
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: ''
+  title: Contact
 ---
 
-# Example contact form
+# Contact
 
-This form is setup to use Netlify's form handling:
+If you would be interested in having EUJO play at your event, do not hesitate to contact us:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+  - Email us: [ed.uni.jazz.orchestra@gmail.com](mailto:ed.uni.jazz.orchestra@gmail.com)
+  - Message us on [Facebook](https://www.facebook.com/edunijazz/)
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Follow Us
+
+  - [Facebook](https://www.facebook.com/edunijazz/)
+  - [Instagram](http://instagram.com/edunijazz/)
+  - [Twitter](https://twitter.com/edunijazz)
+  - [Vimeo](http://vimeo.com/edunijazz)

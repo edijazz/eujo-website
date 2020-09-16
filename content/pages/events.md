@@ -2,7 +2,8 @@
 template: DefaultPage
 slug: events
 title: 'Upcoming Events'
-featuredImage: 'https://edunijazz.netlify.app/static/dde95bf308ebbfa0cf4b6da7bc728b3a/a296c/events-cover.jpg'
+# featuredImage: 'https://edunijazz.netlify.app/static/dde95bf308ebbfa0cf4b6da7bc728b3a/a296c/events-cover.jpg'
+featuredImage: 'https://lh3.googleusercontent.com/pw/ACtC-3dcrxeGG4gAuHDJugNfqIhXhrSjnEhmsGXOQ8cIeveAy4ZjsrfDl6k4Q40kHUK_DL8T4U9EiufKBqX8ECe4moMMA2RZSu_LhXkthXMYeyud_Fm5CnGkZj9hx3kOF3ESouOkbRXU6RCr0Ly12YpIwPaF=w1166-h656-no?authuser=0'
 subtitle: ''
 meta:
   description: This is a meta description.

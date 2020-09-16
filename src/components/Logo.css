@@ -1,5 +1,7 @@
 .Logo {
-  display: flex;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.712);
+  border-radius: 50px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -7,4 +9,10 @@
   width: 4rem;
   align-items: center;
   justify-content: center;
+}
+
+@media (max-width: 850px) {
+  .Logo {
+    display: flex;
+  }
 }

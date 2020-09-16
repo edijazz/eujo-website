@@ -84,7 +84,7 @@ export class Navigation extends Component {
               </span>
             </div> */}
             <NavLink to="/events/">Events</NavLink>
-            <NavLink to="/time-machine/">Jazz Club Time Machine</NavLink>
+            {/* <NavLink to="/time-machine/">Jazz Club Time Machine</NavLink> */}
             <NavLink to="/history/">History</NavLink>
             <NavLink to="/line-up">The Line Up</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
