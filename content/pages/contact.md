@@ -1,5 +1,5 @@
 ---
-template: DefaultPage
+template: ContactPage-2
 slug: contact
 title: Contact Us
 featuredImage: 'https://edunijazz.netlify.app/static/f8d67ead633435d900d52c9cd3200ed3/b7ec6/contact-1.jpg'
@@ -22,3 +22,12 @@ If you would be interested in having EUJO play at your event, do not hesitate to
   - [Instagram](http://instagram.com/edunijazz/)
   - [Twitter](https://twitter.com/edunijazz)
   - [Vimeo](http://vimeo.com/edunijazz)
+
+# Address
+
+The Edinburgh University Jazz Orchestra is registered with the Edinburgh University Students' Association (EUSA):
+
+*Edinburgh University Students' Association</br>
+5/2 Bristo Place</br>
+Edinburgh</br>
+EH8 9AL*

@@ -1,5 +1,5 @@
 :root {
-  --primary: #b32a08;
+  --primary: #fb1901;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -237,9 +237,6 @@ blockquote {
   text-align: center;
 }
 
-
-/* Tables */
-
 /* Tables */
 
 table {
@@ -252,6 +249,7 @@ table {
 
 th {
   border-bottom: 2px solid var(--light-background);
+  min-width: 65px;
 }
 
 tfoot th {

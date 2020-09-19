@@ -1,8 +1,8 @@
 ---
-template: DefaultPage
+template: HistoryPage
 slug: history
 title: 'A Brief History of EUJO'
-featuredImage: 'https://edunijazz.netlify.app/static/98c9eb7e15ce504f30a1c1176b4d78fd/a296c/history.jpg'
+featuredImage: '../images/about.jpg'
 subtitle: ''
 meta:
   description: This is a meta description.

@@ -4,6 +4,8 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import audiPack from '../../static/files/audition-pack.pdf'
+import importedImage from '../../content/images/home.jpg'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
@@ -12,11 +14,16 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       large
       title={title}
       subtitle={subtitle}
-      backgroundImage={featuredImage}
+      backgroundImage={importedImage}
     />
 
     <section className="section">
       <div className="container">
+        <h1>Welcome to EUJO</h1>
+        <h3>Auditions are now live!{` `}
+              <a href={audiPack}>Download the audition pack</a>
+            {` `}for more information!
+        </h3>
         <Content source={body} />
       </div>
     </section>

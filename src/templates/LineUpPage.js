@@ -8,6 +8,7 @@ import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
+import importedImage from '../../content/images/line-up.jpg'
 
 // Export Template for use in CMS preview
 export const LineUpPageTemplate = ({
@@ -28,7 +29,7 @@ export const LineUpPageTemplate = ({
     <PageHeader
       title={title}
       subtitle={subtitle}
-      backgroundImage={featuredImage}
+      backgroundImage={importedImage}
     />
     <section className="section">
       <div className="container">

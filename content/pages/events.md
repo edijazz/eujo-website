@@ -28,7 +28,7 @@ Unfortuantely, Jazz Club Time Machine 2020 has been postponed until further noti
 |----------|------------------------------------------|-----------------------------------------|
 | 08/11/19 | **A Capella Winter Ball**                | The Balmoral                            |
 | 15/11/19 | **EUJO at The Jazz Bar**                 | The Jazz Bar                            |
-| 23/11/19 | **MSF Jazz Without Borders**             |                                         |
+| 23/11/19 | **MSF Jazz Without Borders**             | 32 Below                                |
 | 24/11/19 | **Wine Society Ball**                    | The Balmoral                            |
 | 28/11/19 | **Edinburgh Studio Opera Ball**          | The Caves                               |
 | 17/11/20 | **Roaring 20s Event**                    | McEwan Hall                             |
@@ -47,7 +47,7 @@ Unfortuantely, Jazz Club Time Machine 2020 has been postponed until further noti
 
 | Date     | Event                                                     | Location              |
 |----------|-----------------------------------------------------------|-----------------------|
-| 17/11/18 | **EUJO at The Jazz Bar**                                  |                       |
+| 17/11/18 | **EUJO at The Jazz Bar**                                  | The Jazz Bar          |
 | 18/11/18 | **Conscious Charity Ball**                                | Gosford House         |
 | 24/11/18 | **MSF Jazz Without Borders**                              | The Counting House    |
 | 29/11/18 | **EUJO & TUM Jazz Band**                                  | La Belle Angele       |
@@ -55,7 +55,7 @@ Unfortuantely, Jazz Club Time Machine 2020 has been postponed until further noti
 | 18/02/19 | **EUJO at Titanic Sur Mer**                               | Lisbon                |
 | 05/03/19 | **Music for the Mind**                                    | Pleasance Theatre     |
 | 22/03/19 | **Jazz Club Time Machine**                                | Potterrow             |
-| 03/04/19 | **EUJO at The Jazz Bar**                                  |                       |
+| 03/04/19 | **EUJO at The Jazz Bar**                                  | The Jazz Bar          |
 | 05/04/19 | **EUJO's End of Semester Takeover**                       | McEwan Hall           |
 | 12/09/19 | **EUJO Welcome Week Gig**                                 | Pleasance Cabaret Bar |
 
@@ -67,7 +67,7 @@ Unfortuantely, Jazz Club Time Machine 2020 has been postponed until further noti
 
 | Date     | Event                                                     | Location              |
 |----------|-----------------------------------------------------------|-----------------------|
-| 17/11/18 | **EUJO at The Jazz Bar**                                  |                       |
+| 17/11/18 | **EUJO at The Jazz Bar**                                  | The Jazz Bar          |
 | 18/11/18 | **Conscious Charity Ball**                                | Gosford House         |
 | 24/11/18 | **MSF Jazz Without Borders**                              | The Counting House    |
 | 29/11/18 | **EUJO & TUM Jazz Band**                                  | La Belle Angele       |
@@ -75,7 +75,7 @@ Unfortuantely, Jazz Club Time Machine 2020 has been postponed until further noti
 | 18/02/19 | **EUJO at Titanic Sur Mer**                               | Lisbon                |
 | 05/03/19 | **Music for the Mind**                                    | Pleasance Theatre     |
 | 22/03/19 | **Jazz Club Time Machine**                                | Potterrow             |
-| 03/04/19 | **EUJO at The Jazz Bar**                                  |                       |
+| 03/04/19 | **EUJO at The Jazz Bar**                                  | The Jazz Bar          |
 | 05/04/19 | **EUJO's End of Semester Takeover**                       | McEwan Hall           |
 | 12/09/19 | **EUJO Welcome Week Gig**                                 | Pleasance Cabaret Bar |
 

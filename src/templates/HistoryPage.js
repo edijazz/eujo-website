@@ -4,10 +4,10 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import importedImage from '../../content/images/events-cover.jpg'
+import importedImage from '../../content/images/history.jpg'
 
 // Export Template for use in CMS preview
-export const DefaultPageTemplate = ({
+export const HistoryPageTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -28,18 +28,18 @@ export const DefaultPageTemplate = ({
   </main>
 )
 
-const DefaultPage = ({ data: { page } }) => (
+const HistoryPage = ({ data: { page } }) => (
   <Layout
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <DefaultPageTemplate {...page.frontmatter} body={page.html} />
+    <HistoryPageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
-export default DefaultPage
+export default HistoryPage
 
 export const pageQuery = graphql`
-  query DefaultPage($id: String!) {
+  query HistoryPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html

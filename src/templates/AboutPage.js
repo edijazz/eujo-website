@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
+import importedImage from '../../content/images/about.jpg'
 
 // Export Template for use in CMS preview
 export const AboutPageTemplate = ({
@@ -19,7 +20,7 @@ export const AboutPageTemplate = ({
     <PageHeader
       title={title}
       subtitle={subtitle}
-      backgroundImage={featuredImage}
+      backgroundImage={importedImage}
     />
     <section className="section">
       <div className="container">

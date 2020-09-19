@@ -10,16 +10,18 @@ meta:
   title: Home
 ---
 
-# Welcome to EUJO
+You can also find more information about our auditioning process and rehearsals on our [About](/about/) page.
 
 
-Auditions are now live! [Download the audition pack](../../static/files/audition-pack.pdf) for more information.
+<!-- Welcome to the website for the Edinburgh University Jazz Orchestra. Auditions to join the band will open during Welcome Week in September. For more information, and to find out how you can get involved in the coming year, keep an eye on our [Facebook page](https://www.facebook.com/edunijazz/). -->
 
 ---
 
-Welcome to the website for the Edinburgh University Jazz Orchestra. Auditions to join the band will open during Welcome Week in September. For more information, and to find out how you can get involved in the coming year, keep an eye on our [Facebook page](https://www.facebook.com/edunijazz/).
+We are a 17-piece big band consisting of some of the finest jazz musicians studying at the University of Edinburgh. We perform throughout the academic year, at venues such as The Jazz Bar on Chambers Street, The Balmoral, The Pleasance Cabaret Bar, and Potterrow. We take bookings for society, charity and private events - our gigs are always packed full of people, energy, and of course great music!
 
-We are a 17-piece big band consisting of some of the finest jazz musicians studying at the University of Edinburgh. We perform throughout the academic year, at venues such as The Jazz Bar on Chambers Street, The Balmoral, The Pleasance Cabaret Bar. and Potterrow.
+<br/>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Yd_LI7NWuEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </br>
 

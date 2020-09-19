@@ -8,6 +8,7 @@ import Content from '../components/Content'
 import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
+import importedImage from '../../content/images/contact-1.jpg'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -24,7 +25,7 @@ export const ContactPageTemplate = ({
     <PageHeader
       title={title}
       subtitle={subtitle}
-      backgroundImage={featuredImage}
+      backgroundImage={importedImage}
     />
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
