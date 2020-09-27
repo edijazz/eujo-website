@@ -13,7 +13,7 @@ section2: |-
 
   We're very pleased to announce our new Musical Director for 2020/21, Liam Bradbury. Liam is a saxophonist with 3 years experience playing in the band. We're looking forward to working with Liam on selecting our new band of talented musicians very soon. 
 
-  ![](https://edunijazz.netlify.app/static/a1a78213da38ca78cb0fa9966cbd8b04/0b2ff/musical-director.jpg)
+  ![](https://eujo.eusa.ed.ac.uk/static/a1a78213da38ca78cb0fa9966cbd8b04/0b2ff/musical-director.jpg)
 
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
@@ -29,13 +29,13 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: Zain Cruickshank • Treasurer
-    image: 'https://edunijazz.netlify.app/static/b540cdef4c1318dd3385caf78e775eb7/176de/zain.jpg'
+    image: 'https://eujo.eusa.ed.ac.uk/static/b540cdef4c1318dd3385caf78e775eb7/176de/zain.jpg'
     title: Zain Cruickshank • Treasurer
   - alt: Mark Sandford • President
-    image: 'https://edunijazz.netlify.app/static/f8ad340eb418d2e77ea0cb1b38e2093a/8c676/mark.jpg'
+    image: 'https://eujo.eusa.ed.ac.uk/static/f8ad340eb418d2e77ea0cb1b38e2093a/8c676/mark.jpg'
     title: Mark Sandford • President
   - alt: Jen Gullery • Secretary
-    image: 'https://edunijazz.netlify.app/static/fdeaca917150a2e40ebf94c7f7b01b06/8c676/jen.jpg'
+    image: 'https://eujo.eusa.ed.ac.uk/static/fdeaca917150a2e40ebf94c7f7b01b06/8c676/jen.jpg'
     title: Jen Gullery • Secretary
 meta:
   description: ''

@@ -18,7 +18,7 @@ section1: >-
     - *Baritone:* Uncle Petar
 
 
-    ![](https://edunijazz.netlify.app/static/0cb8071e28dcef6dafaddce541275a6a/b7ec6/about.jpg)
+    ![](https://edunijazz.netlify.app/static/0cb8071e28dcef6dafaddce541275a6a/b7ec6/about.jpg) # change to ed.ac.uk domain!
 
   ### Trumpets
 
