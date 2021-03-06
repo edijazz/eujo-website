@@ -8,7 +8,7 @@ import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
-import importedImage from '../../content/images/line-up.jpg'
+import importedImage from '../../content/images/line-up-2.png'
 
 // Export Template for use in CMS preview
 export const LineUpPageTemplate = ({
@@ -47,6 +47,7 @@ export const LineUpPageTemplate = ({
       <div className="container">
         <h2>The Committee</h2>
         <Gallery images={gallery} />
+        <Content source={body} />
       </div>
     </section>
   </main>

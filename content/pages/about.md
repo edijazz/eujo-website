@@ -11,7 +11,7 @@ accordion:
     title: Rehearsals
   - description: 'Auditions take place early in Semester one. All band members re-audition to make the process as fair as possible and to ensure we are the highest quality band we can be. There is no prerequisite standard, though some jazz experience helps. A willingness to give an audition a go is essential!
 
-  The next auditions for EUJO will be held in September 2020. Check our Facebook page for more information about audition packs, which will be released during Welcome Week 2020.'
+  The next auditions for EUJO will be held in September 2021. Check our Facebook page for more information about audition packs, which will be released during Welcome Week 2021.'
     title: Auditions
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'

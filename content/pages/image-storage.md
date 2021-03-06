@@ -20,3 +20,8 @@ meta:
 ![](../images/mark.jpg)
 ![](../images/jen.jpg)
 ![](../images/contact-1.jpg)
+![](../images/rhythm-section.png)
+![](../images/saxes-section.jpg)
+![](../images/singers-section.jpg)
+![](../images/trombone-section.jpg)
+![](../images/trumpet-section.jpg)

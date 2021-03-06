@@ -19,11 +19,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 
     <section className="section">
       <div className="container">
-        <h1>Welcome to EUJO</h1>
+        {/* <h1>Welcome to EUJO</h1>
         <h3>Auditions are now live!{` `}
               <a href={audiPack}>Download the audition pack</a>
             {` `}for more information!
-        </h3>
+        </h3> */}
         <Content source={body} />
       </div>
     </section>
